@@ -1,0 +1,23 @@
+{
+  "name": "playwright_test_repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamkatka/Playwright_test_repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/phamkatka/Playwright_test_repo/issues"
+  },
+  "homepage": "https://github.com/phamkatka/Playwright_test_repo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.0"
+  }
+}
